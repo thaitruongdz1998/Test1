@@ -1,0 +1,3 @@
+git init : tao mot reposoties
+git add . : them cac muc len
+git status : kiem tra trang thai
